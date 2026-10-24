@@ -1,0 +1,39 @@
+ # Keil MDK Build Artifacts
+ *.o
+ *.crf
+ *.d
+ *.dep
+ *.axf
+ *.lst
+ *.map
+ *.htm
+ *.build_log.htm
+ *.lnp
+ *.iex
+ *.__i
+ *.scvd
+
+ # Keil MDK Output Directories
+ MDK-ARM/Objects/
+ MDK-ARM/Listings/
+ MDK-ARM/DebugConfig/
+
+ # Keil User-Specific Settings
+ *.uvguix.*
+ *.uvguix
+
+ # JLink / Debug
+ JLinkLog.txt
+ JLinkSettings.ini
+
+ # Editor / IDE
+ .vscode/
+ .idea/
+ *.swp
+ *.swo
+ *~
+
+ # OS
+ .DS_Store
+ Thumbs.db
+ Desktop.ini
