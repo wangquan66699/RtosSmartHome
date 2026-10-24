@@ -141,7 +141,7 @@ RtosSmartHome/
 
 ### 1. 克隆仓库
 
-git clone https://github.com/YOUR_USERNAME/RtosSmartHome.git
+git clone https://github.com/wangquan66699/RtosSmartHome.git
 
 ### 2. 配置 WiFi 参数
 
